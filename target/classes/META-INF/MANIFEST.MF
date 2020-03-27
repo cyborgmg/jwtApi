@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: jwtApi
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: dsmart_rg
+Implementation-Vendor-Id: com.jwtApi
+Build-Jdk: 1.8.0_231
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/jwtApi
+Created-By: Maven Integration for Eclipse
+
